@@ -1,4 +1,4 @@
 # Hackerrank-Project-Euler
 
-Solutions to Project Ruler contest on hackerrank.
+Solutions to Project Euler contest on hackerrank.
 All source code are in JAVA programming language.
